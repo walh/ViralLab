@@ -558,8 +558,20 @@ st.markdown(textwrap.dedent("""
 <div>A collaborative data mining project by</div>
 
 <div class="virallab-team-grid">
-<div class="virallab-member">Walh Altayyar</div>
-<div class="virallab-member">Latifa Alrasheed</div>
+<div class="virallab-member">
+<a href="https://github.com/walh"
+   target="_blank"
+   rel="noopener noreferrer">
+Walh Altayyar
+</a>
+</div>
+<div class="virallab-member">
+<a href="https://github.com/latifa0611"
+   target="_blank"
+   rel="noopener noreferrer">
+Latifa Alrasheed
+</a>
+</div>
 <div class="virallab-member">Reelam Alasmari</div>
 <div class="virallab-member">Aljohara Alhazzani</div>
 <div class="virallab-member">Randah Alrefay</div>
